@@ -1,0 +1,18 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 650px;
+}
+input{
+  margin-bottom: 25px;
+}
+.listt{
+  display: flex;
+  width: 200px;
+  height: 600px;
+  text-align: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
